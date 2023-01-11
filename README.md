@@ -18,5 +18,5 @@ English | [简体中文](README_ch.md)
 
 
 ## Address
-- [E-book: *Dive Into OCR* (link generating)]()
-- [Videos and Jupyter notebook (Chinese only)](https://aistudio.baidu.com/aistudio/education/group/info/25207)
+- [E-book: *Dive Into OCR* ](https://paddleocr.bj.bcebos.com/ebook/Dive_into_OCR.pdf)
+- Videos: [Chinese](https://aistudio.baidu.com/aistudio/education/group/info/25207), [English version coming soon]()
